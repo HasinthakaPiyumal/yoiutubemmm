@@ -1,8 +1,8 @@
 {
     "name": "Youtube Upload Bot",
     "description": "Telegram to YouTube Uploader Bot",
-    "repository": "https://github.com/HasinthakaPiyumal/youtubehasi",
-    "logo": "https://github.com/HasinthakaPiyumal/youtubehasi/blob/master/ss/logo.png",
+    "repository": "https://github.com/HasinthakaPiyumal/yoiutubemmm",
+    "logo": "https://github.com/HasinthakaPiyumal/yoiutubemmm/blob/master/ss/logo.png",
     "keywords": ["telegram", "youtube", "uploader"],
     "env": {
         "BOT_TOKEN": {
