@@ -30,7 +30,7 @@ This is a simple hobby project which I was really curious about to implement. Th
 **Clone and setup virtual environment**
 
 ```bash
-$ git clone https://github.com/HasinthakaPiyumal/youtubehasi.git
+$ git clone https://github.com/HasinthakaPiyumal/yoiutubemmm.git
 
 $ cd utube
 
